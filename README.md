@@ -17,3 +17,11 @@ In this assignment we are asked to utilize PostgresSQL to do a variety of search
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+Bonus:
+In this bonus we are asked to create a histogram of the frequency of salaries and a bar graph illustrating the salaries of employees by title. The following results are the following:
+
+Histogram
+![Salary_By_Title](Images/salary_by_title.png)
+Bar Graph
+![Salary_Frequency](Images/salary_frequency.png)
